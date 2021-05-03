@@ -1,0 +1,20 @@
+{
+  "name": "BigO",
+  "version": "1.0.0",
+  "description": "",
+  "main": "O(n).js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melliottgithub/BigO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melliottgithub/BigO/issues"
+  },
+  "homepage": "https://github.com/melliottgithub/BigO#readme"
+}
