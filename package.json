@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/melliottgithub/BigO/issues"
   },
-  "homepage": "https://github.com/melliottgithub/BigO#readme"
+  "homepage": "https://github.com/melliottgithub/BigO#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
